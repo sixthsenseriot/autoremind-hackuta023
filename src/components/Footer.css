@@ -1,5 +1,5 @@
 .footer-container {
-  background-color: #242424;
+  background-color: #0F0632;
   padding: 4rem 0 2rem 0;
   display: flex;
   flex-direction: column;
@@ -81,7 +81,7 @@
 }
 
 .footer-link-items a:hover {
-  color: #e9e9e9;
+  color: #bbd2e8;
   transition: 0.3s ease-out;
 }
 
@@ -90,7 +90,7 @@
 }
 
 .footer-input::placeholder {
-  color: #b1b1b1;
+  color: #bbd2e8;
 }
 
 /* Social Icons */

@@ -1,5 +1,6 @@
+/* bbd2e8-0F0632-FF6B00-F8D624 */
 :root {
-  --primary: #fff;
+  --primary: #FF6B00;
 }
 
 .btn {
@@ -12,13 +13,13 @@
 
 .btn--primary {
   background-color: var(--primary);
-  color: #242424;
+  color: #0F0632;
   border: 1px solid var(--primary);
 }
 
 .btn--outline {
   background-color: transparent;
-  color: #fff;
+  color: #bbd2e8;
   padding: 8px 20px;
   border: 1px solid var(--primary);
   transition: all 0.3s ease-out;
@@ -38,6 +39,6 @@
 .btn--medium:hover {
   transition: all 0.3s ease-out;
   background: #fff;
-  color: #242424;
+  color: #0F0632;
   transition: 250ms;
 }
