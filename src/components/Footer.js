@@ -8,7 +8,7 @@ function Footer() {
     <div className="footer-container">
       <section className="footer-subscription">
         <p className="footer-subscription-heading">
-          Join the Adventure newsletter to receive our best vacation deals
+          Join the AutoRemind newsletter to receive our latest updates
         </p>
         <p className="footer-subscription-text">
           You can unsubscribe at any time.
@@ -68,7 +68,7 @@ function Footer() {
               <i class="fab fa-typo3" />
             </Link>
           </div>
-          <small class="website-rights">TRVL © 2023</small>
+          <small class="website-rights">AutoRemind © 2023</small>
           <div class="social-icons">
             <Link
               class="social-icon-link facebook"
