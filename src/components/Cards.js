@@ -10,36 +10,22 @@ function Cards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="images/img-9.jpg"
-              text="Explore the hidden waterfall deep inside the Amazon Jungle"
-              label="Adventure"
+              src="images/oil-change.png"
+              text="An oil change is a routine maintenance procedure performed on a motor vehicle's engine to ensure its smooth and efficient operation. This essential service involves replacing the old engine oil with fresh, clean oil, along with replacing the oil filter"
+              label="Oil Change"
               path="/services"
             />
             <CardItem
-              src="images/img-2.jpg"
-              text="Travel through the Islands of Bali in a Private Cruise"
-              label="Luxury"
-              path="/services"
-            />
-          </ul>
-          <ul className="cards__items">
-            <CardItem
-              src="images/img-3.jpg"
-              text="Set Sail in the Atlantic Ocean visiting Uncharted Waters"
-              label="Mystery"
+              src="images/tire-change.png"
+              text="A tire change is a common automotive maintenance procedure that involves the removal and replacement of one or more tires on a vehicle. This service is typically performed for various reasons, such as wear and tear, damage, or to adapt to different driving conditions. "
+              label="Tire Change"
               path="/services"
             />
             <CardItem
-              src="images/img-4.jpg"
-              text="Experience Football on Top of the Himilayan Mountains"
-              label="Adventure"
-              path="/products"
-            />
-            <CardItem
-              src="images/img-8.jpg"
-              text="Ride through the Sahara Desert on a guided camel tour"
-              label="Adrenaline"
-              path="/sign-up"
+              src="images/brake-change.png"
+              text="A brake change, also known as a brake replacement or brake service, is a critical automotive maintenance procedure aimed at ensuring the safety and optimal performance of a vehicle's braking system. Brakes play a vital role in a vehicle's ability to slow down and stop effectively, making their maintenance and replacement a matter of utmost importance."
+              label="Brake Change"
+              path="/services"
             />
           </ul>
         </div>
