@@ -10,7 +10,7 @@ function MyCarsCards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="images/subaru-forester.jpg"
+              src="images/subaru-forester.png"
               text="Explore the outdoors in style with the 2024 Subaru Forester. It's built for family adventures with standard AWD, advanced safety, and a spacious interior."
               label="Subaru Forester"
             //   path="/services"
