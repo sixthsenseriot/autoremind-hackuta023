@@ -6,7 +6,6 @@ function Cards() {
   return (
     <div className="cards">
       <h1>Outstanding alerts for your vehicle!</h1>
-      <h1>See our wide range of services</h1>
       <div className="cards__container">
         <div className="cards__wrapper">
           <ul className="cards__items">
