@@ -75,6 +75,10 @@
   display: none;
 }
 
+.autoRemindLogo{
+  max-width: 40px;
+}
+
 @media screen and (max-width: 960px) {
   .NavbarItems {
     position: relative;
