@@ -21,7 +21,12 @@ function MyCarsCards() {
               label="Ford Bronco"
               //path="/services"
             />
-            
+            <CardItem
+              src="images/add-car.png"
+              text="Add another vehicle."
+              label="Add vehicle"
+              //path="/services"
+            />
           </ul>
         </div>
       </div>
