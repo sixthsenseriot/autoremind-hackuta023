@@ -78,6 +78,7 @@
 .autoRemindLogo{
   max-width: 40px;
   margin-right: 15px;
+  max-width: 60px;
 }
 
 @media screen and (max-width: 960px) {

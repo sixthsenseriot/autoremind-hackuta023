@@ -63,7 +63,7 @@ h1 {
   margin-left: 10px;
   padding: 6px 8px;
   max-width: calc((100%) - 60px);
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 700;
   color: #0F0632;
   background-color: #F8D624;
@@ -95,7 +95,7 @@ h1 {
 
 .cards__item__text {
   color: #252e48;
-  font-size: 18px;
+  font-size: 14px;
   line-height: 24px;
 }
 
