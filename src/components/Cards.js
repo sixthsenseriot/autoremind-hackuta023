@@ -5,6 +5,7 @@ import CardItem from "./CardItem";
 function Cards() {
   return (
     <div className="cards">
+      <h1>Outstanding alerts for your vehicle!</h1>
       <h1>See our wide range of services</h1>
       <div className="cards__container">
         <div className="cards__wrapper">
@@ -23,7 +24,7 @@ function Cards() {
             />
             <CardItem
               src="images/brake-change.png"
-              text="A brake change, also known as a brake replacement or brake service, is a critical automotive maintenance procedure aimed at ensuring the safety and optimal performance of a vehicle's braking system. Brakes play a vital role in a vehicle's ability to slow down and stop effectively, making their maintenance and replacement a matter of utmost importance."
+              text="A brake service is a critical automotive maintenance procedure aimed at ensuring the safety and optimal performance of a vehicle's braking system. Brakes play a vital role in a vehicle's ability to slow down and stop effectively, making their maintenance and replacement a matter of utmost importance."
               label="Brake Change"
               path="/services"
             />
