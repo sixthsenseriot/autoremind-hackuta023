@@ -21,12 +21,7 @@ function MyCarsCards() {
               label="Ford Bronco"
               //path="/services"
             />
-            <CardItem
-              src="images/brake-change.png"
-              text="A brake service is a critical automotive maintenance procedure aimed at ensuring the safety and optimal performance of a vehicle's braking system. Brakes play a vital role in a vehicle's ability to slow down and stop effectively, making their maintenance and replacement a matter of utmost importance."
-              label="Brake Change"
-              path="/services"
-            />
+            
           </ul>
         </div>
       </div>
