@@ -29,30 +29,22 @@ function Navbar() {
       <nav className="navbar">
         <div className="navbar-container">
           <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
+            <img className ="autoRemindLogo" src="/images/autoRemindLogo.png"></img>
             AutoRemind
-            <i class="fab fa-typo3" />
+            {/* <i class="fab fa-typo3" /> */}
           </Link>
           <div className="menu-icon" onClick={handleClick}>
             <i className={click ? "fas fa-times" : "fas fa-bars"} />
           </div>
           <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li className="nav-item">
-              <Link to="/" className="nav-links" onClick={closeMobileMenu}>
-                Home
+              <Link to="/dashboard" className="nav-links" onClick={closeMobileMenu}>
+                Dashboard
               </Link>
             </li>
             <li className="nav-item">
               <Link
-                to="/services"
-                className="nav-links"
-                onClick={closeMobileMenu}
-              >
-                Services
-              </Link>
-            </li>
-            <li className="nav-item">
-              <Link
-                to="/products"
+                to="/myCars"
                 className="nav-links"
                 onClick={closeMobileMenu}
               >

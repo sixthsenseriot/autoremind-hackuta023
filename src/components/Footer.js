@@ -39,18 +39,11 @@ function Footer() {
             <h2>Contact Us</h2>
             <Link to="/">Contact</Link>
             <Link to="/">Support</Link>
-            <Link to="/">Destinations</Link>
             <Link to="/">Sponsorships</Link>
           </div>
         </div>
         <div className="footer-link-wrapper">
-          <div class="footer-link-items">
-            <h2>Videos</h2>
-            <Link to="/">Submit Video</Link>
-            <Link to="/">Ambassadors</Link>
-            <Link to="/">Agency</Link>
-            <Link to="/">Influencer</Link>
-          </div>
+          
           <div class="footer-link-items">
             <h2>Social Media</h2>
             <Link to="/">Instagram</Link>
@@ -64,8 +57,7 @@ function Footer() {
         <div class="social-media-wrap">
           <div class="footer-logo">
             <Link to="/" className="social-logo">
-              TRVL
-              <i class="fab fa-typo3" />
+              AutoRemind
             </Link>
           </div>
           <small class="website-rights">AutoRemind © 2023</small>
